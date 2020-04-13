@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "142398f4-3ae5-4dcd-aabe-e79f89d17b23",
+    "Name": "ExpenseReportInFolder",
+    "ModifiedOnUtc": "\/Date(1586755051000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Expense Report in Folder",
+    "DependsOn": []
+  }
+}

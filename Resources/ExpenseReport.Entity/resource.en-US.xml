@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Expense Report" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.ReportDate.Caption" Value="Report Date" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="Columns.Total.Caption" Value="Total" />
+		</Items>
+	</Group>
+</Resources>

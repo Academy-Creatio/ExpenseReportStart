@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d0355942-b224-4046-bc8b-465ee11bef24",
+    "Name": "Expense_Report_Line_Category",
+    "ModifiedOnUtc": "\/Date(1586759040000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Expense Report Line Category",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,58 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "9444d65b-699f-4563-b5c9-3dd08477ed78",
+          "DisplayValue": "Expense Report"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2be89e19-c08c-4faa-99cd-68e6d3cf00ed"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "4a98903a-b325-4c74-8719-a150f6b9e856",
+          "DisplayValue": "Expense Report Status"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "9444d65b-699f-4563-b5c9-3dd08477ed78",
+          "DisplayValue": "Expense Report"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2895ed4d-1325-4883-b5f4-abf5c469b7b8"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "123162f9-bf38-445e-907d-9242fc85dd41",
+          "DisplayValue": "Expense Report Line GL"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "9444d65b-699f-4563-b5c9-3dd08477ed78",
+          "DisplayValue": "Expense Report"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "42fb103d-2e12-4a39-9af9-bdaf164d13e3"
+        },
+        {
+          "SchemaColumnUId": "34391227-ac90-4b55-9739-6720e97a0594",
+          "Value": "f27813dd-349e-46de-81cc-6d31718deb29",
+          "DisplayValue": "Expense Report Line Category"
+        }
+      ]
+    }
+  ]
+}

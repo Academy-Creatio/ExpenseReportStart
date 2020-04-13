@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "74d44210-4cd1-4901-b740-25f8039915f1",
+    "Name": "VwProcessLibInFolder_ExpenseReport",
+    "ModifiedOnUtc": "\/Date(1586757801000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "86aed0a7-3dc4-469a-a266-71b974dc4a6a",
+      "Name": "VwProcessLibInFolder"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "88321d97-a1f0-4bf7-b6ef-fcf7a39306e2",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "VwProcessLib",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Folder",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

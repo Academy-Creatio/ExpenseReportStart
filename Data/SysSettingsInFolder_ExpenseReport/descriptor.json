@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "0489965d-8628-4b96-a1f3-2f5ff4ccf9f5",
+    "Name": "SysSettingsInFolder_ExpenseReport",
+    "ModifiedOnUtc": "\/Date(1586757356000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "fcd1648a-01fd-47f9-a42f-24f245d37768",
+      "Name": "SysSettingsInFolder"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysSettings",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Folder",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "7742be09-263d-4fd8-b758-64cb17701718"
+        },
+        {
+          "SchemaColumnUId": "a19bf4bf-e22b-49b5-b6e0-918ff6290020",
+          "ColumnName": "ActionKindCaption",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "55132174-2b96-4e0a-830c-b8e952b12c45",
+          "ColumnName": "PageCaption",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

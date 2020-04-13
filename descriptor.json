@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "b877df7f-db2d-408d-bb45-0f5899de7334",
+    "Name": "ExpenseReport",
+    "ModifiedOnUtc": "\/Date(1586753851000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

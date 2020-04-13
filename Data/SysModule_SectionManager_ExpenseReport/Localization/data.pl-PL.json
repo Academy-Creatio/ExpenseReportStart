@@ -1,0 +1,23 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "ccb8fc7d-399a-413c-b3f0-0edefca52a9e"
+        },
+        {
+          "SchemaColumnUId": "3da3c3b2-02fb-4cca-80c3-7946d4e8f565",
+          "ColumnName": "Caption",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "7b904e78-84bf-408c-a7a1-1287e66837d3",
+          "ColumnName": "ModuleHeader",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

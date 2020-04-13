@@ -1,0 +1,12 @@
+﻿{
+  "Properties": {
+    "AdministratedByColumns": "False",
+    "AdministratedByOperations": "False",
+    "AdministratedByRecords": "False",
+    "CreatedInVersion": "7.16.0.4449",
+    "IsSSPAvailable": "False",
+    "IsTrackChangesInDB": "False",
+    "IsVirtual": "False",
+    "MasterRecordSchemaName": "ExpenseReport"
+  }
+}

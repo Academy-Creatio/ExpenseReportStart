@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "fb2ebec9-f669-479d-8bf3-ce5351fc3b78"
+= MetaData.Schema.A2 "ExpenseReportLinesDetail"
+= MetaData.Schema.A5 "ac4f7f0f-d5d5-4e8b-997a-a2f7c46f033e"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "fb2ebec9-f669-479d-8bf3-ce5351fc3b78"
+= MetaData.Schema.B6 "b877df7f-db2d-408d-bb45-0f5899de7334"
+= MetaData.Schema.B8 "7.16.0.4449"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

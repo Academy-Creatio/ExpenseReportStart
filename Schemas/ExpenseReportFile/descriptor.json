@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a6800674-ecfb-4aaf-87fb-d0c54c75c6f0",
+    "Name": "ExpenseReportFile",
+    "ModifiedOnUtc": "\/Date(1586755047000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Expense Report attachment",
+    "DependsOn": []
+  }
+}

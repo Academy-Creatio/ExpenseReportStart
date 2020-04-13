@@ -1,0 +1,95 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "d89cd324-cd92-4b8d-addc-679d614b4ff8",
+          "Value": "d1b49ba4-37f4-4a99-b567-db0cd8858df2",
+          "DisplayValue": "Travel"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "205d5b0b-54da-4fcf-bfbf-0d6ba8fc83b0"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "d89cd324-cd92-4b8d-addc-679d614b4ff8",
+          "Value": "52d3e9f3-3a64-4969-99e0-e7dd4cab293b",
+          "DisplayValue": "Lodging"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b748e313-3be8-4e9b-9a23-1fe0213cd496"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "d89cd324-cd92-4b8d-addc-679d614b4ff8",
+          "Value": "d1b49ba4-37f4-4a99-b567-db0cd8858df2",
+          "DisplayValue": "Travel"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ed210135-eeec-4abd-95f6-212f56d1a00e"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "d89cd324-cd92-4b8d-addc-679d614b4ff8",
+          "Value": "d1b49ba4-37f4-4a99-b567-db0cd8858df2",
+          "DisplayValue": "Travel"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "361f2574-3e3e-466c-a931-a73d2b4e3a8d"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "d89cd324-cd92-4b8d-addc-679d614b4ff8",
+          "Value": "7eecc7d3-41ee-41b3-8ac6-125785221307",
+          "DisplayValue": "MISC"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a19c660e-b8dd-4f4b-934a-bd1b1bc5f6fe"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "d89cd324-cd92-4b8d-addc-679d614b4ff8",
+          "Value": "1211d88b-d9bd-4d03-bb9a-2a827d26d6bf",
+          "DisplayValue": "M&E"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "63a95324-1c33-43ca-9963-c11730a274be"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "d89cd324-cd92-4b8d-addc-679d614b4ff8",
+          "Value": "1211d88b-d9bd-4d03-bb9a-2a827d26d6bf",
+          "DisplayValue": "M&E"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "53fca331-32d6-4247-9ad3-c6f10db687e4"
+        }
+      ]
+    }
+  ]
+}

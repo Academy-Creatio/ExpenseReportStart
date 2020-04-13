@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Expense Report Lines" />
+			<Item Name="Columns.AmountFC.Caption" Value="Amount Foreign Currency" />
+			<Item Name="Columns.AmountFC.Description" Value="Transaction amount in foreign currency" />
+			<Item Name="Columns.AmountHC.Caption" Value="Amount Home Currency" />
+			<Item Name="Columns.AmountHC.Description" Value="Transaction amount in home currency" />
+			<Item Name="Columns.Currency.Caption" Value="Currency" />
+			<Item Name="Columns.Description.Caption" Value="Description" />
+			<Item Name="Columns.Description.Description" Value="Transaction description" />
+			<Item Name="Columns.ExpenseReport.Caption" Value="Expense Report" />
+			<Item Name="Columns.FxRate.Caption" Value="Exchange Rate" />
+			<Item Name="Columns.TransactionDate.Caption" Value="Transaction Date" />
+		</Items>
+	</Group>
+</Resources>

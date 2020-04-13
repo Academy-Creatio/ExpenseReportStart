@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b482bd7a-7d9c-4ed4-9f78-bf50b6b4779a",
+    "Name": "ExpenseReportSection",
+    "ModifiedOnUtc": "\/Date(1586756087000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Expense Report\"",
+    "DependsOn": []
+  }
+}

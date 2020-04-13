@@ -1,0 +1,111 @@
+= MetaData.Schema.UId "71c18735-9014-4b47-afbd-50cb9b0ac1b5"
+= MetaData.Schema.A2 "ExpenseReportLines"
+= MetaData.Schema.A5 "205f8ac7-18d3-4e34-bd80-a8b8c8127c7f"
+= MetaData.Schema.B6 "b877df7f-db2d-408d-bb45-0f5899de7334"
+= MetaData.Schema.B8 "7.16.0.4449"
+= MetaData.Schema.EG1.UId "fce27e50-2ea5-4176-ae43-04664902ef54"
+= MetaData.Schema.EG1.A2 "ExpenseReportLinesEventsProcess"
+= MetaData.Schema.EG1.A5 "205f8ac7-18d3-4e34-bd80-a8b8c8127c7f"
++ MetaData.Schema.EG1.B8 "7.16.0.4449"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D22 "49913357-6200-4332-91a7-6cdbd115095c"
+- MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E15
+- MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E15
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E15
+- MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E15
+- MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E15
+- MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E15
++ MetaData.Schema.D2 {
+  "UId": "49913357-6200-4332-91a7-6cdbd115095c",
+  "A2": "ExpenseReport",
+  "A3": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A4": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A5": "205f8ac7-18d3-4e34-bd80-a8b8c8127c7f",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "b55d85ae-1d47-4ca0-aa1d-44bc26cddca2",
+  "E2": 1,
+  "E6": true,
+  "E9": true,
+  "E17": "ExpenseReportId",
+  "E18": "ExpenseReportName"
+}
++ MetaData.Schema.D2 {
+  "UId": "e31df3e8-f715-49fb-b68b-82ff241f59c7",
+  "A2": "Currency",
+  "A3": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A4": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A5": "205f8ac7-18d3-4e34-bd80-a8b8c8127c7f",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "2d36aca6-5b8c-4122-9648-baf3b7f8256d",
+  "E2": 1,
+  "E6": true,
+  "E17": "CurrencyId",
+  "E18": "CurrencyName"
+}
++ MetaData.Schema.D2 {
+  "UId": "9b8caafb-517f-4780-a150-333b5f3c673b",
+  "A2": "TransactionDate",
+  "A3": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A4": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A5": "205f8ac7-18d3-4e34-bd80-a8b8c8127c7f",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+}
++ MetaData.Schema.D2 {
+  "UId": "2c2cb702-8e5a-4040-91bb-820ef4af7e5c",
+  "A2": "FxRate",
+  "A3": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A4": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A5": "205f8ac7-18d3-4e34-bd80-a8b8c8127c7f",
+  "S2": "a4aaf398-3531-4a0d-9d75-a587f5b5b59e",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "6fc8ed56-a78a-4a5f-9b73-a2ec3fe859dd",
+  "A2": "AmountFC",
+  "A3": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A4": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A5": "205f8ac7-18d3-4e34-bd80-a8b8c8127c7f",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "436881d9-a682-4cf4-9ddd-fd5a0b4d8171",
+  "A2": "AmountHC",
+  "A3": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A4": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A5": "205f8ac7-18d3-4e34-bd80-a8b8c8127c7f",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "13b09efb-008d-4d0c-b202-3c7ea688dfa1",
+  "A2": "Description",
+  "A3": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A4": "71c18735-9014-4b47-afbd-50cb9b0ac1b5",
+  "A5": "205f8ac7-18d3-4e34-bd80-a8b8c8127c7f",
+  "S2": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","49913357-6200-4332-91a7-6cdbd115095c","e31df3e8-f715-49fb-b68b-82ff241f59c7","9b8caafb-517f-4780-a150-333b5f3c673b","2c2cb702-8e5a-4040-91bb-820ef4af7e5c","6fc8ed56-a78a-4a5f-9b73-a2ec3fe859dd","436881d9-a682-4cf4-9ddd-fd5a0b4d8171","13b09efb-008d-4d0c-b202-3c7ea688dfa1"]
+= MetaData.Schema.D20.A2 "ExpenseReportLinesEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

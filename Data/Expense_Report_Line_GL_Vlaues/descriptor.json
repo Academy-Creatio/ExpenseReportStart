@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "92eeb232-789a-4d4e-abb5-3944e12f97f4",
+    "Name": "Expense_Report_Line_GL_Vlaues",
+    "ModifiedOnUtc": "\/Date(1586760118000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "c028e5e7-52ed-4062-8efb-77c3e5b47fd9",
+      "Name": "Expense_Report_Line_GL"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "d89cd324-cd92-4b8d-addc-679d614b4ff8",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Category",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

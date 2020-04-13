@@ -1,0 +1,36 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHdpZHRoPSIzOSIgaGVpZ2h0PSIzOSIgdmlld0JveD0iMCAwIDQ3LjAwMSA0Ny4wMDEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDQ3LjAwMSA0Ny4wMDE7Ig0KCSB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxnIGlkPSJMYXllcl8xXzc4XyI+DQoJCTxnPg0KCQkJPHBhdGggZD0iTTQ0Ljg0NSw0Mi43MThIMi4xMzZDMC45NTYsNDIuNzE4LDAsNDMuNjc0LDAsNDQuODU1YzAsMS4xNzksMC45NTYsMi4xMzUsMi4xMzYsMi4xMzVoNDIuNzA4DQoJCQkJYzEuMTgsMCwyLjEzNi0wLjk1NiwyLjEzNi0yLjEzNUM0Ni45NzksNDMuNjc0LDQ2LjAyMyw0Mi43MTgsNDQuODQ1LDQyLjcxOHoiIGZpbGw9IiNGRjQwMTMiIC8+DQoJCQk8cGF0aCBkPSJNNC44MDUsMzcuMTY1Yy0xLjE4LDAtMi4xMzYsMC45NTYtMi4xMzYsMi4xMzZzMC45NTYsMi4xMzcsMi4xMzYsMi4xMzdoMzcuMzdjMS4xOCwwLDIuMTM2LTAuOTU3LDIuMTM2LTIuMTM3DQoJCQkJcy0wLjk1Ni0yLjEzNi0yLjEzNi0yLjEzNmgtMC41MzNWMTcuOTQ1aDAuNTMzYzAuNTkxLDAsMS4wNjctMC40NzgsMS4wNjctMS4wNjdzLTAuNDc4LTEuMDY3LTEuMDY3LTEuMDY3SDQuODA1DQoJCQkJYy0wLjU5LDAtMS4wNjcsMC40NzgtMS4wNjcsMS4wNjdzMC40NzgsMS4wNjcsMS4wNjcsMS4wNjdoMC41MzR2MTkuMjE5SDQuODA1eiBNMzcuMzcsMTcuOTQ1djE5LjIxOWgtNi40MDZWMTcuOTQ1SDM3LjM3eg0KCQkJCSBNMjYuNjkyLDE3Ljk0NXYxOS4yMTloLTYuNDA2VjE3Ljk0NUgyNi42OTJ6IE05LjYwOSwxNy45NDVoNi40MDZ2MTkuMjE5SDkuNjA5VjE3Ljk0NXoiIGZpbGw9IiNGRjQwMTMiLz4NCgkJCTxwYXRoIGQ9Ik0yLjEzNiwxMy44OTFoNDIuNzA4YzAuMDA3LDAsMC4wMTUsMCwwLjAyMSwwYzEuMTgxLDAsMi4xMzYtMC45NTYsMi4xMzYtMi4xMzZjMC0wLjkzOC0wLjYwNC0xLjczMy0xLjQ0My0yLjAyMQ0KCQkJCWwtMjEuMTktOS41MzVjLTAuNTU3LTAuMjUtMS4xOTQtMC4yNS0xLjc1MiwwTDEuMjYsOS44MDhjLTAuOTE5LDAuNDE0LTEuNDI0LDEuNDEyLTEuMjEyLDIuMzk2DQoJCQkJQzAuMjU5LDEzLjE4OCwxLjEyOSwxMy44OTEsMi4xMzYsMTMuODkxeiIgZmlsbD0iI0ZGNDAxMyIvPg0KCQk8L2c+DQoJPC9nPg0KPC9nPg0KPC9zdmc+DQo="
+        },
+        {
+          "SchemaColumnUId": "b3cd8485-7bd8-4b70-b2dd-bc41e45e9992",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f8fdc9b7-4296-4a6b-9051-eecbcdf1ae12"
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/svg+xml"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "bank-building-small.svg"
+        },
+        {
+          "SchemaColumnUId": "90801d7c-a189-4afe-9c3a-a202fbf242d8",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "08ccfffd-cb3e-47c3-9729-1d043a5812e4",
+          "Value": "\/Date(1586755024036+0300)\/"
+        }
+      ]
+    }
+  ]
+}

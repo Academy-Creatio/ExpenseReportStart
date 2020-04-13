@@ -1,0 +1,112 @@
+﻿{
+  "Descriptor": {
+    "UId": "d232520c-eb5a-47ff-9eec-3ec882228035",
+    "Name": "SysModuleEdit_SysModuleEditManager_eafb4c7980a743849232ee20383eeef1",
+    "ModifiedOnUtc": "\/Date(1586760492000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "24666f2d-049f-4867-ae2c-db681c40c001",
+      "Name": "SysModuleEdit"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "f7b189f1-06c6-4b54-bb04-eaf91625177f",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysModuleEntity",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "56c33b79-2d9a-4b49-adb4-79df03d178e9",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "TypeColumnValue",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "a19bf4bf-e22b-49b5-b6e0-918ff6290020",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ActionKindCaption",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "a4fcaa97-6bfa-4e5e-a130-6a9515254107",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MiniPageModes",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "fcd5ccc3-2a7a-4a9d-b8b8-e78f76efe747",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CardSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "9cf420d8-04d4-4c81-ac33-8d00dc0704b9",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SearchRowSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "c53035ba-426a-4b98-a5fa-2d2966b2c908",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UseModuleDetails",
+        "DataTypeValueUId": "90b65bf8-0ffc-4141-8779-2420877af907"
+      },
+      {
+        "ColumnUId": "55132174-2b96-4e0a-830c-b8e952b12c45",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "PageCaption",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "350ddc16-b017-4661-ae25-33482662a8d2",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "MiniPageSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "a90e57e9-5e2c-40e8-80e2-3ac8b48f9619",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "HelpContextId",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ca35057b-1338-4316-9d6f-8c35f98f5db5",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Position",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "f14f9a76-5ad3-47f9-b175-b7648b7bd340",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ActionKindName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae683a77-0faf-4743-a1c2-abadf29f6e98",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysPageSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

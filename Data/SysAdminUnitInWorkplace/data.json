@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "379a3139-1689-4f8e-8cdb-cc268fbce30b"
+        },
+        {
+          "SchemaColumnUId": "b96bb4ca-a133-44f1-aa7d-24495d89e278",
+          "Value": "83a43ebc-f36b-1410-298d-001e8c82bcad",
+          "DisplayValue": "System administrators"
+        },
+        {
+          "SchemaColumnUId": "d5cfaf4a-0900-4ef9-aee8-2ede7f9d97fb",
+          "Value": "c4263543-ea95-4680-8fb6-a216f1d5144b",
+          "DisplayValue": "Expense Report"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cd105cb0-2d98-44da-b2eb-f40f47719411"
+        },
+        {
+          "SchemaColumnUId": "b96bb4ca-a133-44f1-aa7d-24495d89e278",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "d5cfaf4a-0900-4ef9-aee8-2ede7f9d97fb",
+          "Value": "c4263543-ea95-4680-8fb6-a216f1d5144b",
+          "DisplayValue": "Expense Report"
+        }
+      ]
+    }
+  ]
+}

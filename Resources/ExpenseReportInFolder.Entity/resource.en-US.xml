@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Expense Report in Folder" />
+			<Item Name="Columns.ExpenseReport.Caption" Value="Expense Report" />
+			<Item Name="Columns.Folder.Caption" Value="Expense Report folder" />
+		</Items>
+	</Group>
+</Resources>

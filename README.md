@@ -12,8 +12,4 @@ This is a starting point for Development with Creatio training.
 </a><br />
 <img src="https://github.com/kirillkrylov/ImagesAndPages/wiki/Img/kirill.jpg" width="70">
 
-
-
-
-
 [Logo]: https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg

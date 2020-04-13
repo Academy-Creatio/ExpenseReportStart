@@ -4,6 +4,7 @@
     "Name": "ExpenseReport",
     "ModifiedOnUtc": "\/Date(1586753851000)\/",
     "Maintainer": "Customer",
+    "Description": "https://github.com/kirillkrylov/ExpenseReportStart/blob/master/README.md",,
     "DependsOn": [
       {
         "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",

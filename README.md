@@ -1,5 +1,3 @@
-﻿![Logo]
-
 # Expense Report Package
 
 This is a starting point for Development with Creatio training.
@@ -11,5 +9,3 @@ This is a starting point for Development with Creatio training.
     <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" width="70">
 </a><br />
 <img src="https://github.com/kirillkrylov/ImagesAndPages/wiki/Img/kirill.jpg" width="70">
-
-[Logo]: https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg
